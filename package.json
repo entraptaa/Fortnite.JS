@@ -1,0 +1,20 @@
+{
+  "name": "fortnite.js",
+  "version": "1.0.0",
+  "description": "Fortnite Lobby bot programmed in Node.JS",
+  "main": "fortnite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fortnite"
+  ],
+  "author": "RiftSTW",
+  "license": "ISC",
+  "dependencies": {
+    "fnbr": "^1.4.1",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.10",
+    "request-promise": "^4.2.6"
+  }
+}
